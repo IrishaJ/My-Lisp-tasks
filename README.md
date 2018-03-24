@@ -1,18 +1,1 @@
-# sicp
-Russian version follows / Русская версия ниже
-
-Define a procedure sum-of-squares-of-top-two that takes three numbers as arguments and returns the sum of the squares of the two larger numbers.
-
-For example:
-
-    if argument numbers are 1, 2 and 4, then the procedure should return 2^2 + 4^2 = 4 + 16 = 20.
-    if argument numbers are 9, 3 and 7, then the procedure should return 9^2 + 7^2 = 81 + 49 = 130.
-
-Создайте процедуру sum-of-squares-of-top-two, которая принимает три числа и возвращает сумму квадратов двух наибольших чисел.
-
-Например:
-
-    если аргументы это 1, 2 и 4, тогда процедура должна вернуть 2^2 + 4^2 = 4 + 16 = 20.
-    если аргументы это 9, 3 и 7, тогда процедура должна вернуть 9^2 + 7^2 = 81 + 49 = 130.
-
-
+my sicp tasks
